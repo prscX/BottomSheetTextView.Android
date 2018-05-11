@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BottomSheetTextView.iml" filepath="$PROJECT_DIR$/BottomSheetTextView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bottomsheettextview/bottomsheettextview.iml" filepath="$PROJECT_DIR$/bottomsheettextview/bottomsheettextview.iml" />
+    </modules>
+  </component>
+</project>
