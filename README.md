@@ -59,6 +59,11 @@ builder.show();
 
 - **show()** Invoke the BottomSheet Text View
 
+## iOS
+
+If you are looking for similar library on iOS, please use the below one:
+[BottomSheetTextView.iOS](https://github.com/prscX/BottomSheetTextView.iOS)
+
 ## Contribution
 Contributions are welcome and are greatly appreciated! Every little bit helps, and credit will always be given.
 
