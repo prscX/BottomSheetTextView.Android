@@ -5,7 +5,7 @@
     BottomSheetTextView.Android
 </h1>
 
-## Getting started
+## Getting Started
 
 BottomSheetTextView.Android is distributed using jcenter.
 
@@ -46,18 +46,18 @@ builder.show();
 
 ## API's
 
-- **setTitle(String)**
-- **setTitleSize(int)**
-- **setTitleColor(String)**
+- **setTitle(String):** Specify the title of bottomsheet
+- **setTitleSize(int):** Specify the font size of title
+- **setTitleColor(String):** Specify the color of title
 
-- **setDescription(String)**
-- **setDescriptionSize(int)**
-- **setDescriptionColor(String)**
+- **setDescription(String):** Specify the description of bottomsheet
+- **setDescriptionSize(int):** Specify the font size of description
+- **setDescriptionColor(String):** Specify the color of description
 
-- **setBackgroundColor(String)**
-- **setHeaderMinHeight(int)**
+- **setBackgroundColor(String):** Specify the background color
+- **setHeaderMinHeight(int):** Specify the header min height
 
-- **show()**
+- **show()** Invoke the BottomSheet Text View
 
 ## Contribution
 Contributions are welcome and are greatly appreciated! Every little bit helps, and credit will always be given.
