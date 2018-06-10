@@ -1,6 +1,6 @@
 
 <h1 align="center">
-<img src="./assets/hero.gif" width="300" height="600" />
+<img src="./assets/hero.gif" width="400" height="600" />
 
     BottomSheetTextView.Android
 </h1>
