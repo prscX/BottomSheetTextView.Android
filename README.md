@@ -1,8 +1,11 @@
 
 <h1 align="center">
+
 <img src="./assets/hero.gif" width="400" height="600" />
 
     BottomSheetTextView.Android
+
+If this project has helped you out, please support us with a star 🌟
 </h1>
 
 ## 📖 Getting Started
